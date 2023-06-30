@@ -1,11 +1,11 @@
-About confz
-===========
+About confz-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/confz-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Zuehlke/ConfZ
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/confz-feedstock/blob/main/LICENSE.txt)
 
 Summary: A configuration management library for Python based on pydantic.
 
