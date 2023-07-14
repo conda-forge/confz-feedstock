@@ -1,5 +1,5 @@
 {% set name = "confz" %}
-{% set version = "1.8.2" %}
+{% set version = "2.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/confz-{{ version }}.tar.gz
-  sha256: 79925db91e3fcf5710b62521f79f4596fbef91c8d75eba97dff591d4164b2fb1
+  sha256: e3584cb0aa79e7d8d26628ebf4d23a8bf1ab61ca3e62c23e81ea981ea69b8327
 
 build:
   number: 0
